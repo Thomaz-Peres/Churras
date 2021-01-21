@@ -1,0 +1,17 @@
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrinca.Services.deps.json
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrinca.Services.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ref\ChurrasTrinca.Services.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrinca.Services.pdb
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.csprojAssemblyReference.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.AssemblyInfoInputs.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.AssemblyInfo.cs
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ref\ChurrasTrinca.Services.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.pdb
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrica.Data.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrinca.Domain.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrica.Data.pdb
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\bin\Debug\net5.0\ChurrasTrinca.Domain.pdb
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Services\obj\Debug\net5.0\ChurrasTrinca.Services.csproj.CopyComplete

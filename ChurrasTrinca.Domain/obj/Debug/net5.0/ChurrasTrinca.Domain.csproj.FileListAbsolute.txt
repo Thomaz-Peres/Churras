@@ -1,0 +1,12 @@
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.AssemblyInfoInputs.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.AssemblyInfo.cs
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.csprojAssemblyReference.cache
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\bin\Debug\net5.0\ChurrasTrinca.Domain.deps.json
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\bin\Debug\net5.0\ChurrasTrinca.Domain.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\bin\Debug\net5.0\ref\ChurrasTrinca.Domain.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\bin\Debug\net5.0\ChurrasTrinca.Domain.pdb
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ref\ChurrasTrinca.Domain.dll
+C:\Users\thoma\Dev\Trinca\ChurrasTrinca.Domain\obj\Debug\net5.0\ChurrasTrinca.Domain.pdb
